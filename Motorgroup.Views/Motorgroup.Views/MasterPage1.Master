@@ -1,0 +1,54 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage1.master.cs" Inherits="Motorgroup.Views.MasterPage1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <meta lang="es" />
+    <meta charset="utf-8" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta http-equiv="content-type" content="text/html"; charset=utf-8" />
+    <title>MotorGroup</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Capriola">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Shanti">
+    <script src="script/jquery-1.7.2.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <header>
+	            <div id="logo">
+		            <%--<h1><a href="#">MotorGroup</a></h1>--%>
+		            <img src="images/logo_motorgroup.png" />
+		            <p>www.motorgroup.com.co</a></p>
+	            </div>
+	            <div id="menu">
+		            <ul>
+			            <li id="li_inicio" runat="server"><a href="Default.aspx">Inicio</a></li>
+			            <li id="li_clasificados" runat="server"><a href="Clasificados.aspx">Clasificados</a></li>
+			            <li id="li_foros" runat="server"><a href="#">Foro</a></li>
+			            <li id="li_club" runat="server"><a href="#">Clubes</a></li>
+			            <li id="li_salidas" runat="server"><a href="#">Salidas</a></li>
+			            <li id="li_galeria" runat="server"><a href="#">Galeria</a></li>
+			            <li id="li_somos" runat="server"><a href="#">Somos</a></li>
+		            </ul>
+	            </div>
+	        </header>
+	        
+	        <div id="page">
+                <asp:ContentPlaceHolder ID="page_bgbtm" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </div>
+	        <!-- end #page -->
+	    </div>
+        <div id="footer">
+	        <p>Copyright (c) 2011 Sitename.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+        </div>
+    </form>
+</body>
+</html>
