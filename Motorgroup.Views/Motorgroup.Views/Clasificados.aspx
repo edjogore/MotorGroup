@@ -14,12 +14,7 @@
             <ul id="ul_categorias">
         	    <li><a href="#">Carros</a></li>
         	    <li><a href="#">Motos</a></li>
-        	    <li><a href="#">Cuatrimotos</a></li>
         	    <li><a href="#">Repuestos</a></li>
-        	    <li><a href="#">Llantas</a></li>
-        	    <li><a href="#">Motor</a></li>
-        	    <li><a href="#">Herramientas</a></li>
-        	    <li><a href="#">Lujo</a></li>
         	    <li><a href="#">Accesorios</a></li>
         	    <li><a href="#">Tecnologia</a></li>
             </ul>

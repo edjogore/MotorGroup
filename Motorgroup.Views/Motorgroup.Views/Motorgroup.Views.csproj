@@ -90,6 +90,13 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ForoCategorias.aspx.cs">
+      <DependentUpon>ForoCategorias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForoCategorias.aspx.designer.cs">
+      <DependentUpon>ForoCategorias.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Listo.aspx.cs">
       <DependentUpon>Listo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -124,6 +131,7 @@
     <Content Include="Clasificados.aspx" />
     <Content Include="CrearClasificado.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="ForoCategorias.aspx" />
     <Content Include="images\logo_motorgroup.png" />
     <Content Include="images\pruebas\carro.jpg" />
     <Content Include="images\pruebas\foto1.jpeg" />

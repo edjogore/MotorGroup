@@ -349,6 +349,10 @@ article .entry {
 	display:block;
 	margin-top:20px;
 }
+#section_foro_categorias
+{
+	border: solid 1px red;
+}
 #section_fotos_clasificado
 {
 	border-top: solid 1px #dadada;
@@ -370,6 +374,14 @@ article .entry {
 {
 	float:right;
 	margin-top:5px;
+}
+.categoria_foro
+{
+	height:200px;
+	width:300px;
+	border:solid 1px #dadada;
+	display:inline-block;
+	vertical-align:top;
 }
 .pregunta
 {
