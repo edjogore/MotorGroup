@@ -18,6 +18,7 @@ namespace Motorgroup.Views
             {
                 case "default": li_inicio.Attributes["class"] = "current_page_item"; break;
                 case "clasificados": li_clasificados.Attributes["class"] = "current_page_item"; break;
+                case "foros": li_foros.Attributes["class"] = "current_page_item"; break;
             }
         }
     }

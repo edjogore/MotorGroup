@@ -23,14 +23,14 @@
             <header>
 	            <div id="logo">
 		            <%--<h1><a href="#">MotorGroup</a></h1>--%>
-		            <img src="images/logo_motorgroup.png" />
-		            <p>www.motorgroup.com.co</a></p>
+		            <img src="images/logo_motorgroup.png" alt="" />
+		            <p>www.motorgroup.com.co</p>
 	            </div>
 	            <div id="menu">
 		            <ul>
 			            <li id="li_inicio" runat="server"><a href="Default.aspx">Inicio</a></li>
 			            <li id="li_clasificados" runat="server"><a href="Clasificados.aspx">Clasificados</a></li>
-			            <li id="li_foros" runat="server"><a href="#">Foro</a></li>
+			            <li id="li_foros" runat="server"><a href="ForoCategorias.aspx">Foro</a></li>
 			            <li id="li_club" runat="server"><a href="#">Clubes</a></li>
 			            <li id="li_salidas" runat="server"><a href="#">Salidas</a></li>
 			            <li id="li_galeria" runat="server"><a href="#">Galeria</a></li>
@@ -47,7 +47,7 @@
 	        <!-- end #page -->
 	    </div>
         <div id="footer">
-	        <p>Copyright (c) 2011 Sitename.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+	        <p>Copyright (c) 2012 motorgroup.com.co. Todos los derechos reservados.</p>
         </div>
     </form>
 </body>

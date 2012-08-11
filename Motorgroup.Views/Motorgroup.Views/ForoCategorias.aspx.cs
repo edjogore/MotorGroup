@@ -11,7 +11,8 @@ namespace Motorgroup.Views
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            MasterPage1 master = (MasterPage1)this.Master;
+            master.SetCurrentPageItem("foros");
         }
     }
 }
