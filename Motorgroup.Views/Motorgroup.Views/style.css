@@ -380,8 +380,27 @@ article .entry {
 	height:200px;
 	width:300px;
 	border:solid 1px #dadada;
-	display:inline-block;
-	vertical-align:top;
+	
+}
+.categoria_foro h3
+{
+	height:20px;
+	border:solid 1px red;
+	
+}
+.categoria_foro div
+{
+
+	background: #000 url('images/pruebas/gategorias_moto_big.jpg') no-repeat left top;
+	background-size: 100% 100%;
+	width:100%;
+	height:180px;
+}
+.categoria_foro p
+{
+	text-align:-webkit-center;
+	display: block;
+	height:100px;
 }
 .pregunta
 {

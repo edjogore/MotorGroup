@@ -5,7 +5,11 @@
     <h2>Foro de MotorGroup, Categorias</h2>
     <section id="section_foro_categorias">
         <article class="categoria_foro">
-            
+            <h3>Categoria 1</h3>
+            <div>
+                <p>Esta es la descripciòn de esta categoria, aquì puedes encontrar todo lo relacionado
+            	con motocicletas.</p>
+            </div>
         </article>
     </section>
 </asp:Content>

@@ -33,3 +33,8 @@ C:\Users\APLICACIONES\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Vi
 C:\Users\APLICACIONES\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\APLICACIONES\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\obj\Debug\Motorgroup.Views.dll
 C:\Users\APLICACIONES\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\obj\Debug\Motorgroup.Views.pdb
+C:\Users\DESARROLLO04\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\bin\Motorgroup.Views.dll
+C:\Users\DESARROLLO04\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\bin\Motorgroup.Views.pdb
+C:\Users\DESARROLLO04\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DESARROLLO04\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\obj\Debug\Motorgroup.Views.dll
+C:\Users\DESARROLLO04\Documents\GitHub\MotorGroup\Motorgroup.Views\Motorgroup.Views\obj\Debug\Motorgroup.Views.pdb
