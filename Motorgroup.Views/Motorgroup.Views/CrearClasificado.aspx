@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="page_bgbtm" runat="server">
     <section id="section_crear_clasificado" class="disp_block_vert_ali_top">
-        <h1>Crear tu propio clasificado</h1>
+        <h1>Crear tu propio clasificado.</h1>
         <div>
             <label for="txt_titulo_clasificado">Título de tu clasificado: </label>
             <input id="txt_titulo_clasificado" title="Título del clasificado" 
