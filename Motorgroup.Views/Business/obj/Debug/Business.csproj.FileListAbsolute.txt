@@ -1,0 +1,5 @@
+C:\Users\LAB02\Documents\GitHub\MotorGroup\Motorgroup.Views\Business\bin\Debug\Business.dll
+C:\Users\LAB02\Documents\GitHub\MotorGroup\Motorgroup.Views\Business\bin\Debug\Business.pdb
+C:\Users\LAB02\Documents\GitHub\MotorGroup\Motorgroup.Views\Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB02\Documents\GitHub\MotorGroup\Motorgroup.Views\Business\obj\Debug\Business.dll
+C:\Users\LAB02\Documents\GitHub\MotorGroup\Motorgroup.Views\Business\obj\Debug\Business.pdb
