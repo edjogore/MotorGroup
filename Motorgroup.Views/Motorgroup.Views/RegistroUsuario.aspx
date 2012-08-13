@@ -3,6 +3,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="page_bgbtm" runat="server">
 <div>
-hoolka
+hola
 </div>
 </asp:Content>
