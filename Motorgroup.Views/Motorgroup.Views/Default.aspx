@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="page_bgbtm" runat="server">
     <section id="section1">
 		<article>
-			<h2 class="title"><a href="#">Bienvenido a MotorGroup</a></h2>
+			<h2 class="title"><a href="#">Bienvenido a MotorGroup.</a></h2>
 			<p class="meta"><span class="date">August 08, 2011</span><span class="posted">Posted by <a href="#">Someone</a></span></p>
 			<div style="clear: both;">&nbsp;</div>
 			<div class="entry">
