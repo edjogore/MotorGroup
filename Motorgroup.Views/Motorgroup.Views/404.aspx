@@ -9,7 +9,6 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    hablalao
     <% 
         string strQ = Request.ServerVariables["QUERY_STRING"];
         //Con esto tendremos la pagina que nos envía
