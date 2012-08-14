@@ -26,7 +26,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Oeee funcionoo!!
+            OLEE FUNCIONO
             <a href="images/pruebas/carro.jpg" class='cloud-zoom' id='zoom1'
                     rel="zoomHeight: 300, zoomWidth: 400, adjustX: 0, adjustY:-0, useZoom: 'zoom1', tint: '#000'" 
                     style=" height:300px;  width:300px;">
